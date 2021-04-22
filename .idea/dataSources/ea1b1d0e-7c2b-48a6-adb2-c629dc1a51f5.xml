@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@cluster0.ss9hg.mongodb.net">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.19">
+    <root id="1">
+      <ServerVersion>4.4.5</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="DouBan"/>
+    <schema id="3" parent="1" name="admin"/>
+    <schema id="4" parent="1" name="jobPython"/>
+    <schema id="5" parent="1" name="local"/>
+    <schema id="6" parent="1" name="糗事百科"/>
+  </database-model>
+</dataSource>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ubuntu" uuid="d3f99553-36fe-455c-b1e8-4b112330e0f7">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://wy:abc123@119.45.207.226:27017/</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@cluster0.ss9hg.mongodb.net" uuid="ea1b1d0e-7c2b-48a6-adb2-c629dc1a51f5">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb+srv://wy:111920@cluster0.ss9hg.mongodb.net</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="wap" uuid="881b0413-521a-4bcd-b993-ede46b42cd22">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb+srv://wap:wapwap123@cluster0.hiffb.mongodb.net/</jdbc-url>
+    </data-source>
+  </component>
+</project>
